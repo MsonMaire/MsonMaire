@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MsonMaire
 - 👀 I’m interested in People, Planet, Profit
-- 🌱 I’m currently learning DataScience, Cloud, AI & ML, Data Engineering
+- 🌱 I’m currently learning DataScience, Cloud, AI & ML, Data & Software Engineering
 - 💞️ I’m looking to collaborate on Python, SQL, NLP, Dashboards & all Matters-Tech
 - 📫 Reach out: michelle.maryann14@gmail.com
 - 😄 Pronouns: SHE
